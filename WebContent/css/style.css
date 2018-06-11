@@ -1,0 +1,23 @@
+body {
+	margin-top:5%;
+}
+
+em {
+	color: red;
+}
+
+body{
+  background-color: #feffff;
+}
+
+.table-responsive {
+    max-height:350px;
+}
+
+textarea { 
+	resize:none; 
+}
+
+div:empty {
+   display: none;
+}

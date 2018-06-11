@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/MessengerApp">
+<Resource name="jdbc/webassignment" auth="Container"
+type="javax.sql.DataSource" username="root" password="root"
+driverClassName="com.mysql.jdbc.Driver"
+url="jdbc:mysql://localhost/webassignment?autoReconnect=true&amp;useSSL=false"
+maxActive="8" maxIdle="4"/>
+</Context>
